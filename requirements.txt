@@ -37,6 +37,7 @@ numpy==2.0.0
 openai==0.27.10
 packaging==24.1
 parso==0.8.4
+pdf2image==1.17.0
 pexpect==4.9.0
 pillow==10.4.0
 platformdirs==4.2.2
